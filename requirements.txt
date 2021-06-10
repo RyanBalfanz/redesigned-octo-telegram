@@ -1,6 +1,6 @@
 ## The following requirements were added by pip freeze:
 click==6.2
-Django==1.9.2
+Django==2.2.24
 django-smsish==1.1.1
 djangorestframework==3.3.2
 gunicorn==19.4.5
